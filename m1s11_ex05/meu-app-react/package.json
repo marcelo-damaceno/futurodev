@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://marcelo-damaceno.github.io/futurodev",
+  "homepage": "https://marcelo-damaceno.github.io/futurodev/m1s11_ex05/meu-app-react",
   
   "scripts": {
     "dev": "vite",
